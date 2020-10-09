@@ -15,6 +15,10 @@ aside .main img{
     border-radius: 0;
 }
 
+#end{
+    border-bottom: 0.125rem solid #7CB5C6;
+}
+
 #full{
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
