@@ -1,0 +1,26 @@
+.container{
+    width: 100%;
+    margin: 0;
+  }
+
+header{
+    margin: 0;
+}
+
+aside .pic{
+    text-align: center;
+}
+
+aside .main img{
+    border-radius: 0;
+}
+
+#full{
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+footer{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, #7b68e9, #32A5E0);;
+}

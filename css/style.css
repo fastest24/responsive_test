@@ -1,0 +1,74 @@
+
+body{
+    background: url("../images/cake-candles.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    width: 37.5rem;
+    margin: 6.25rem auto;
+}
+
+#full{
+    background-image: linear-gradient(to bottom right, #C432E0, #32A5E0);
+    border-bottom-left-radius: 1.25rem;
+    border-bottom-right-radius: 1.25rem;
+}
+
+header{
+    margin: 0 0 1.75rem 0;
+}
+
+h1{
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    padding: 1.75rem;
+    border-bottom: 0.125rem solid #7CB5C6;
+}
+
+h2,h4,p{
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    color: white;
+    padding: 1rem;
+    font-size: 1.25rem;
+}
+aside .pic{
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+aside img{
+    width: 75%;
+    height: auto;
+}
+
+aside .main img{
+    width: 100%;
+    border-radius: 1.25rem 1.25rem 0 0;
+}
+
+aside .main{
+    line-height: 0;
+}
+
+#mid{
+    border-bottom: 0.125rem solid #7CB5C6;
+}
+
+footer{
+    margin: 1rem;
+    padding: 1rem;
+}
+
+footer h2{
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+}
